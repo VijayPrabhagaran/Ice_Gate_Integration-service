@@ -24,6 +24,7 @@ namespace IGI.Icegate_Integration.Api.Controllers
         {
             var requestdata = await iGIdbContext.IntegrationRequest.ToListAsync();
             return Ok(requestdata);
+
         }
 
         [HttpPost]
