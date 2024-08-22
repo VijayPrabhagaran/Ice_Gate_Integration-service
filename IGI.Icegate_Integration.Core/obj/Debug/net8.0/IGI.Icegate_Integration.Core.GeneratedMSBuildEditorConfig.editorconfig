@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IGI.Icegate_Integration.Core
-build_property.ProjectDir = C:\VP\Vijay\ICE_Gate_Integration\API\ICE-Gate-Virus-File-main\IGI.Icegate_Integration.Core\
+build_property.ProjectDir = C:\DHT\New folder\Ice_Gate_Integration-service\IGI.Icegate_Integration.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

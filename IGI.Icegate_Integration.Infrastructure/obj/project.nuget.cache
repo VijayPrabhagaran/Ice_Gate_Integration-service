@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SRPGNTbbxJQ=",
+  "dgSpecHash": "RCfQ3GNMGMU=",
   "success": true,
-  "projectFilePath": "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
+  "projectFilePath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
