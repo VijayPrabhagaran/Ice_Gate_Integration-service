@@ -34,6 +34,7 @@ namespace IGI.Icegate_Integration.Core.Domain.Entities
             public string? ManifestNumberOrRotationNumber { get; set; }
             public DateTimeOffset? ManifestDateOrRotationDate { get; set; }
             public string? StateId { get; set; }
+            //public string? StateId { get; set; }
     }
     public class IntegrationRequestJson
     {
