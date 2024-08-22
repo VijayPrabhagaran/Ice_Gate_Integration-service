@@ -21,6 +21,12 @@ namespace IGI.Icegate_Integration.Api.Controllers
             var responsedata = iGIdbContext.IntegrationResponse.ToList();
             return Ok(responsedata);
         }
+        [HttpGet]
+        public IActionResult GetIntegrationResponse1()
+        {
+            var responsedata = iGIdbContext.IntegrationResponse.ToList();
+            return Ok(responsedata);
+        }
 
         [HttpPost]
         public async Task<ActionResult<IntegrationResponse>> AddIntegrationResponse(IntegrationResponse integrationResponse)
