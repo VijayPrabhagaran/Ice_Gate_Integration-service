@@ -4319,11 +4319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
+      "projectUniqueName": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
       "projectName": "IGI.Icegate_Integration.Infrastructure",
-      "projectPath": "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
+      "projectPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Infrastructure\\obj\\",
+      "outputPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4335,15 +4335,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\SCZone\\CorePackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj": {
-              "projectPath": "C:\\VP\\Vijay\\ICE_Gate_Integration\\API\\ICE-Gate-Virus-File-main\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj"
+            "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj": {
+              "projectPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj"
             }
           }
         }
