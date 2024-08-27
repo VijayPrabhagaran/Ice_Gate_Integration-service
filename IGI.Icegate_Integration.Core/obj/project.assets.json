@@ -4294,11 +4294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj",
+      "projectUniqueName": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj",
       "projectName": "IGI.Icegate_Integration.Core",
-      "projectPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj",
+      "projectPath": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\obj\\",
+      "outputPath": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
