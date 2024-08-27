@@ -12,6 +12,8 @@ namespace IGI.Icegate_Integration.Core.Context
     {
         public DbSet<IntegrationRequest> IntegrationRequest { get; set; }
         public DbSet<IntegrationResponse> IntegrationResponse { get; set; }
+        public DbSet<ArrivalDepartureRequestDetails> ArrivalDepartureRequestDetails { get; set; }
+        public DbSet<ArrivalDepartureResponseDetails> ArrivalDepartureResponseDetails { get; set; }
 
     }
 }

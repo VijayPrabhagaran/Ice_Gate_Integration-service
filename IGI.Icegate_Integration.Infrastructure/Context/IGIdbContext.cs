@@ -17,10 +17,14 @@ namespace IGI.Icegate_Integration.Infrastructure.Context
         }
         public DbSet<IntegrationRequest> IntegrationRequest { get; set; }
         public DbSet<IntegrationResponse> IntegrationResponse { get; set; }
+        public DbSet<ArrivalDepartureRequestDetails> ArrivalDepartureRequestDetails { get; set; }
+        public DbSet<ArrivalDepartureResponseDetails> ArrivalDepartureResponseDetails { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<IntegrationRequest>().ToTable("IntegrationRequest", "IGI");
             modelBuilder.Entity<IntegrationResponse>().ToTable("IntegrationResponse", "IGI");
+            modelBuilder.Entity<ArrivalDepartureRequestDetails>().ToTable("ArrivalDepartureDetails", "IGI");
+            modelBuilder.Entity<ArrivalDepartureResponseDetails>().ToTable("ArrivalDepartureResponseDetails", "IGI");
         }
 
     }

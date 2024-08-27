@@ -4319,11 +4319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
+      "projectUniqueName": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
       "projectName": "IGI.Icegate_Integration.Infrastructure",
-      "projectPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
+      "projectPath": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\IGI.Icegate_Integration.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\obj\\",
+      "outputPath": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4341,8 +4341,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj": {
-              "projectPath": "C:\\DHT\\New folder\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj"
+            "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj": {
+              "projectPath": "C:\\DHT\\Clone\\Ice_Gate_Integration-service\\IGI.Icegate_Integration.Core\\IGI.Icegate_Integration.Core.csproj"
             }
           }
         }
